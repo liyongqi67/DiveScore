@@ -8,22 +8,22 @@
 Nowadays, a large number of human judges participate in sports games such as Diving and Gymnastics. However, because of the human’s subjectivity caused by intentions or instability, the grading may not correspond to players’ performance in one single event. This will unfortunately harm not only players but also countries and nations.
 ## 2.文件结构
 
-SmartMddicalKit<br/>
+DiveScore<br/>
 ├─ Code<br/>
-│    ├─ 安卓端代码<br/>
-│    ├─ 服务器代码<br/>
-│    └─ 树莓派代码<br/>
-├─ Demo Videos<br/>
-│    ├─ SmartMedicineKit.mp4         #项目介绍视频 <br/>    
-│    └─ screen recording.mp4         #使用录频<br/>
-├─ Documents<br/>
-│    ├─ 可行性分析报告.doc<br/>
-│    ├─ 工作分配与进度.docx<br/>
-│    ├─ 技术分析报告.docx<br/>
-│    ├─ 架构.png<br/>
-│    ├─ 特色分析报告.docx<br/>
-│    ├─ 用户使用说明书.docx<br/>
-│    ├─ 详细设计说明书.doc<br/>
-│    └─ 项目设计报告.doc<br/>
-└─ README.md<br/>
+│    ├─ FocNet<br/>
+│    ├─ FoodNet<br/>
+│    ├─ apache-tomcat-7.0.79<br/>
+│    ├─ chatbot<br/>
+│    └─ readme.txt<br/>
+├─ Development document<br/>
+│    └─ 项目开发文档.pdf<br/>
+├─ Installation<br/>
+│    └─ readme.txt<br/>
+├─ Instruction document<br/>
+│    └─ 软件使用手册.pdf<br/>
+├─ Intro<br/>
+│    └─ 项目中英文简介.pdf<br/>
+├─ README.md<br/>
+└─ Test document<br/>
+       └─ 项目测试文档.pdf<br/>
 
